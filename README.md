@@ -3,5 +3,6 @@ test repo for learning git
 
 ## Goals
 * learn git,
-* buy a dog,
+* adopt a dog,
 * plant a tree
+* change the world
